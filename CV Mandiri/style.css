@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    margin: 25px;
+    border-radius: 60%;
+    border: 5px solid hsl(308, 100%, 50%);
+    box-shadow:0 5px 5px 1px rgb(0, 0, 0, .7)
+}
+
+header ul{
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    justify-content: center;
+}
+
+header ul li a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    text-align: center;
+    margin: 50px;
+    padding: 15px;
+    background: hsl(308, 100%, 50%);;
+    color: white;
+}
+
+section P {
+    margin: 20px;
+}
